@@ -14,6 +14,7 @@ Contact:
 * Learn about the state-of-the-art in IR research. 
 
 ## IMPORTANT NOTICE
+* Team up until Mar. 14 & tell TA your team's Github repository (forked from https://github.com/nongaussian/tinyse-submit).
 
 ## Week 1.
 

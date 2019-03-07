@@ -18,6 +18,11 @@ Contact:
 
 ## Week 1.
 
+* Intro. to the class (See IR00-classinfo.pptx)
+* History of search engines (Video)
+
 ## Week 2.
+
+* Overview of inverted indexes
 
 ## Final Exam
